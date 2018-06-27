@@ -1,0 +1,19 @@
+#id
+{
+margin:auto;
+width:50%;
+
+}
+body
+{
+ background-color:grey;
+}
+#div1{
+    border-width: 10%;
+    border-color: white;
+    border-style:ridge;
+    
+}
+#hh{
+    text-align: center;
+}
